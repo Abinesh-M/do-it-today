@@ -13,6 +13,5 @@ Try 😉 https://2it.netlify.app
 - CSS3 🎨
 - JavaScript 🛠️
 
-## Target Audience
 
-"Do it Today" caters to individuals yearning for a streamlined and visually captivating task management solution. It's an ideal companion for students, professionals, and anyone keen on effectively managing their daily tasks while maintaining peak productivity. 🎯📅
+
